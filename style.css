@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+dialog {
+   display: none; 
+   
+   
+ }
+ 
+dialog:target {
+   display: block; 
+   margin: 300px 600px;
+   background-color: aquamarine;
+   
+   
+   
+   
+   
+ }
+
+.container{
+  text-align: center;
+  margin: 5px;
+  padding: 10px;
+  
+ }
+    
+   
+
+ .texto-abertura{
+  border-style:ridge;
+  border: 3 px;
+  padding: 10px;
+  text-decoration: none;
+  background-color: aquamarine;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  
+  
+ }
+
+ .ícone-fechamento{
+  text-decoration: none;
+  text-align: end;
+ }
+
+ .mensagem-conclusão{
+  padding: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  
+ }
+
+
+
+ 
+ 
+  
+
+
+
